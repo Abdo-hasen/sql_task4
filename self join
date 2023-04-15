@@ -1,0 +1,4 @@
+A self join in MySQL is a type of join where a table is joined with itself. This is useful when you have a table that contains hierarchical data or when you need to compare data within the same table.
+
+To perform a self join in MySQL, you need to use an alias for the table. The alias allows you to refer to the same table multiple times in the same query.
+
